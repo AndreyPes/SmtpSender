@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2015\Projects\SmtpSender\FileWatcher\bin\Debug\FileWatcher.exe.config
-c:\users\user\documents\visual studio 2015\Projects\SmtpSender\FileWatcher\bin\Debug\FileWatcher.exe
-c:\users\user\documents\visual studio 2015\Projects\SmtpSender\FileWatcher\bin\Debug\FileWatcher.pdb
-c:\users\user\documents\visual studio 2015\Projects\SmtpSender\FileWatcher\obj\Debug\FileWatcher.exe
-c:\users\user\documents\visual studio 2015\Projects\SmtpSender\FileWatcher\obj\Debug\FileWatcher.pdb
-c:\users\user\documents\visual studio 2015\Projects\SmtpSender\FileWatcher\obj\Debug\FileWatcher.csprojResolveAssemblyReference.cache
